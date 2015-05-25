@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	1C2508481A0EB6B400285EFB /* bmp_for_tft_screen_tool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = bmp_for_tft_screen_tool;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1C25086F1A0EB6D300285EFB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1C2508701A0EB6D300285EFB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1C2508731A0EB82B00285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */;
+		name = "ofApp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	1C2508751A0EB82B00285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 95";
+		rLen = 0;
+		rLoc = 2412;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 2631;
+	};
+	1C2508EF1A17F47900285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 0;
+	};
+	1C2508FC1A17F9AC00285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 1052;
+		vrLoc = 0;
+	};
+	1C25090E1A1907FB00285EFB /* kalman.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1629, 1365}}";
+			sepNavSelRange = "{4340, 0}";
+			sepNavVisRange = "{1516, 2824}";
+		};
+	};
+	1C25090F1A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	1C2509121A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25090E1A1907FB00285EFB /* kalman.h */;
+		rLen = 0;
+		rLoc = 9223372036854779995;
+		rType = 0;
+	};
+	1C2509131A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25090E1A1907FB00285EFB /* kalman.h */;
+		name = "kalman.h: 105";
+		rLen = 0;
+		rLoc = 4340;
+		rType = 0;
+		vrLen = 2824;
+		vrLoc = 1516;
+	};
+	1C2509161A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509171A19082500285EFB /* JoyGamer.h */;
+		name = "JoyGamer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 0;
+	};
+	1C2509171A19082500285EFB /* JoyGamer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = JoyGamer.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/JoyGamerArduino/JoyGamer.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1179, 896}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1461}";
+		};
+	};
+	1C2509181A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509191A19082500285EFB /* JoyGamer.cpp */;
+		rLen = 0;
+		rLoc = 9223372036854775798;
+		rType = 0;
+	};
+	1C2509191A19082500285EFB /* JoyGamer.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = JoyGamer.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/JoyGamerArduino/JoyGamer.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C25091A1A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25091B1A19082500285EFB /* JoyGamer.cpp */;
+		name = "JoyGamer.cpp: 165";
+		rLen = 0;
+		rLoc = 3782;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 3400;
+	};
+	1C25091B1A19082500285EFB /* JoyGamer.cpp */ = {
+		isa = PBXFileReference;
+		name = JoyGamer.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/JoyGamerArduino/JoyGamer.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C25091E1A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25091F1A19082500285EFB /* JoyGamer.cpp */;
+		rLen = 0;
+		rLoc = 9223372036854775798;
+		rType = 0;
+	};
+	1C25091F1A19082500285EFB /* JoyGamer.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = JoyGamer.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/JoyGamerArduino/JoyGamer.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C2509201A19082500285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509211A19082500285EFB /* JoyGamer.cpp */;
+		name = "JoyGamer.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 0;
+	};
+	1C2509211A19082500285EFB /* JoyGamer.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = JoyGamer.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/JoyGamerArduino/JoyGamer.cpp;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1179, 3692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1498}";
+		};
+	};
+	1C2509261A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	1C2509291A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25092A1A19106000285EFB /* L3G4200D.cpp */;
+		name = "L3G4200D.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2058;
+		vrLoc = 0;
+	};
+	1C25092A1A19106000285EFB /* L3G4200D.cpp */ = {
+		isa = PBXFileReference;
+		name = L3G4200D.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C25092B1A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25092C1A19106000285EFB /* L3G4200D.h */;
+		rLen = 0;
+		rLoc = 9223372036854775803;
+		rType = 0;
+	};
+	1C25092C1A19106000285EFB /* L3G4200D.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = L3G4200D.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.h;
+		sourceTree = "<absolute>";
+	};
+	1C25092D1A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25092E1A19106000285EFB /* L3G4200D.h */;
+		name = "L3G4200D.h: 24";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	1C25092E1A19106000285EFB /* L3G4200D.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = L3G4200D.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1179, 896}}";
+			sepNavSelRange = "{261, 18}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	1C25092F1A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509211A19082500285EFB /* JoyGamer.cpp */;
+		name = "JoyGamer.cpp: 165";
+		rLen = 0;
+		rLoc = 3782;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 3400;
+	};
+	1C2509301A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509171A19082500285EFB /* JoyGamer.h */;
+		name = "JoyGamer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 0;
+	};
+	1C2509331A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509341A19106000285EFB /* L3G4200D.cpp */;
+		name = "L3G4200D.cpp: 14";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 2058;
+		vrLoc = 0;
+	};
+	1C2509341A19106000285EFB /* L3G4200D.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = L3G4200D.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C2509351A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509361A19106000285EFB /* L3G4200D.h */;
+		name = "L3G4200D.h: 18";
+		rLen = 18;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 0;
+	};
+	1C2509361A19106000285EFB /* L3G4200D.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = L3G4200D.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.h;
+		sourceTree = "<absolute>";
+	};
+	1C2509371A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509381A19106000285EFB /* L3G4200D.h */;
+		name = "L3G4200D.h: 18";
+		rLen = 18;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	1C2509381A19106000285EFB /* L3G4200D.h */ = {
+		isa = PBXFileReference;
+		name = L3G4200D.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/L3G4200DArduino/L3G4200D.h;
+		sourceTree = "<absolute>";
+	};
+	1C25093B1A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25093C1A19106000285EFB /* MMA8453Q.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	1C25093C1A19106000285EFB /* MMA8453Q.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MMA8453Q.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/MMA8453QArduino/MMA8453Q.h;
+		sourceTree = "<absolute>";
+	};
+	1C25093D1A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25093E1A19106000285EFB /* MMA8453Q.h */;
+		name = "MMA8453Q.h: 56";
+		rLen = 0;
+		rLoc = 3217;
+		rType = 0;
+		vrLen = 3596;
+		vrLoc = 0;
+	};
+	1C25093E1A19106000285EFB /* MMA8453Q.h */ = {
+		isa = PBXFileReference;
+		name = MMA8453Q.h;
+		path = /Users/wideskies/Documents/Arduino/libraries/MMA8453QArduino/MMA8453Q.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1179, 1001}}";
+			sepNavSelRange = "{3217, 0}";
+			sepNavVisRange = "{0, 3596}";
+		};
+	};
+	1C2509411A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509421A19106000285EFB /* MMA8453Q.cpp */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	1C2509421A19106000285EFB /* MMA8453Q.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = MMA8453Q.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/MMA8453QArduino/MMA8453Q.cpp;
+		sourceTree = "<absolute>";
+	};
+	1C2509431A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509441A19106000285EFB /* MMA8453Q.cpp */;
+		name = "MMA8453Q.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 0;
+	};
+	1C2509441A19106000285EFB /* MMA8453Q.cpp */ = {
+		isa = PBXFileReference;
+		name = MMA8453Q.cpp;
+		path = /Users/wideskies/Documents/Arduino/libraries/MMA8453QArduino/MMA8453Q.cpp;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1179, 2613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1783}";
+		};
+	};
+	1C2509451A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25090E1A1907FB00285EFB /* kalman.h */;
+		name = "kalman.h: 105";
+		rLen = 0;
+		rLoc = 4340;
+		rType = 0;
+		vrLen = 2824;
+		vrLoc = 1516;
+	};
+	1C2509461A19106000285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509211A19082500285EFB /* JoyGamer.cpp */;
+		name = "JoyGamer.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 0;
+	};
+	1C2509471A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */;
+		name = "ofApp.cpp: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	1C2509481A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25092E1A19106000285EFB /* L3G4200D.h */;
+		name = "L3G4200D.h: 24";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	1C2509491A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509171A19082500285EFB /* JoyGamer.h */;
+		name = "JoyGamer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 0;
+	};
+	1C25094A1A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25092E1A19106000285EFB /* L3G4200D.h */;
+		name = "L3G4200D.h: 18";
+		rLen = 18;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	1C25094B1A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25093E1A19106000285EFB /* MMA8453Q.h */;
+		name = "MMA8453Q.h: 56";
+		rLen = 0;
+		rLoc = 3217;
+		rType = 0;
+		vrLen = 3596;
+		vrLoc = 0;
+	};
+	1C25094C1A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509441A19106000285EFB /* MMA8453Q.cpp */;
+		name = "MMA8453Q.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 0;
+	};
+	1C25094D1A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C25090E1A1907FB00285EFB /* kalman.h */;
+		name = "kalman.h: 105";
+		rLen = 0;
+		rLoc = 4340;
+		rType = 0;
+		vrLen = 2824;
+		vrLoc = 1516;
+	};
+	1C25094E1A1910C300285EFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C2509211A19082500285EFB /* JoyGamer.cpp */;
+		name = "JoyGamer.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 0;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1C2508481A0EB6B400285EFB /* bmp_for_tft_screen_tool */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* bmp_for_tft_screen_tool */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* bmp_for_tft_screen_tool */,
+		);
+		codeSenseManager = 1C2508701A0EB6D300285EFB /* Code sense */;
+		executables = (
+			1C2508481A0EB6B400285EFB /* bmp_for_tft_screen_tool */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					713,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 437778844;
+			PBXWorkspaceStateSaveDate = 437778844;
+		};
+		perUserProjectItems = {
+			1C2508731A0EB82B00285EFB = 1C2508731A0EB82B00285EFB /* PBXTextBookmark */;
+			1C2508751A0EB82B00285EFB = 1C2508751A0EB82B00285EFB /* PBXTextBookmark */;
+			1C2508EF1A17F47900285EFB = 1C2508EF1A17F47900285EFB /* PBXTextBookmark */;
+			1C2508FC1A17F9AC00285EFB /* PBXTextBookmark */ = 1C2508FC1A17F9AC00285EFB /* PBXTextBookmark */;
+			1C25090F1A19082500285EFB /* PBXTextBookmark */ = 1C25090F1A19082500285EFB /* PBXTextBookmark */;
+			1C2509121A19082500285EFB /* PBXTextBookmark */ = 1C2509121A19082500285EFB /* PBXTextBookmark */;
+			1C2509131A19082500285EFB /* PBXTextBookmark */ = 1C2509131A19082500285EFB /* PBXTextBookmark */;
+			1C2509161A19082500285EFB /* PBXTextBookmark */ = 1C2509161A19082500285EFB /* PBXTextBookmark */;
+			1C2509181A19082500285EFB /* PBXTextBookmark */ = 1C2509181A19082500285EFB /* PBXTextBookmark */;
+			1C25091A1A19082500285EFB /* PBXTextBookmark */ = 1C25091A1A19082500285EFB /* PBXTextBookmark */;
+			1C25091E1A19082500285EFB /* PBXTextBookmark */ = 1C25091E1A19082500285EFB /* PBXTextBookmark */;
+			1C2509201A19082500285EFB /* PBXTextBookmark */ = 1C2509201A19082500285EFB /* PBXTextBookmark */;
+			1C2509261A19106000285EFB /* PBXTextBookmark */ = 1C2509261A19106000285EFB /* PBXTextBookmark */;
+			1C2509291A19106000285EFB /* PBXTextBookmark */ = 1C2509291A19106000285EFB /* PBXTextBookmark */;
+			1C25092B1A19106000285EFB /* PBXTextBookmark */ = 1C25092B1A19106000285EFB /* PBXTextBookmark */;
+			1C25092D1A19106000285EFB /* PBXTextBookmark */ = 1C25092D1A19106000285EFB /* PBXTextBookmark */;
+			1C25092F1A19106000285EFB /* PBXTextBookmark */ = 1C25092F1A19106000285EFB /* PBXTextBookmark */;
+			1C2509301A19106000285EFB /* PBXTextBookmark */ = 1C2509301A19106000285EFB /* PBXTextBookmark */;
+			1C2509331A19106000285EFB /* PBXTextBookmark */ = 1C2509331A19106000285EFB /* PBXTextBookmark */;
+			1C2509351A19106000285EFB /* PBXTextBookmark */ = 1C2509351A19106000285EFB /* PBXTextBookmark */;
+			1C2509371A19106000285EFB /* PBXTextBookmark */ = 1C2509371A19106000285EFB /* PBXTextBookmark */;
+			1C25093B1A19106000285EFB /* PBXTextBookmark */ = 1C25093B1A19106000285EFB /* PBXTextBookmark */;
+			1C25093D1A19106000285EFB /* PBXTextBookmark */ = 1C25093D1A19106000285EFB /* PBXTextBookmark */;
+			1C2509411A19106000285EFB /* PBXTextBookmark */ = 1C2509411A19106000285EFB /* PBXTextBookmark */;
+			1C2509431A19106000285EFB /* PBXTextBookmark */ = 1C2509431A19106000285EFB /* PBXTextBookmark */;
+			1C2509451A19106000285EFB /* PBXTextBookmark */ = 1C2509451A19106000285EFB /* PBXTextBookmark */;
+			1C2509461A19106000285EFB /* PBXTextBookmark */ = 1C2509461A19106000285EFB /* PBXTextBookmark */;
+			1C2509471A1910C300285EFB /* PBXTextBookmark */ = 1C2509471A1910C300285EFB /* PBXTextBookmark */;
+			1C2509481A1910C300285EFB /* PBXTextBookmark */ = 1C2509481A1910C300285EFB /* PBXTextBookmark */;
+			1C2509491A1910C300285EFB /* PBXTextBookmark */ = 1C2509491A1910C300285EFB /* PBXTextBookmark */;
+			1C25094A1A1910C300285EFB /* PBXTextBookmark */ = 1C25094A1A1910C300285EFB /* PBXTextBookmark */;
+			1C25094B1A1910C300285EFB /* PBXTextBookmark */ = 1C25094B1A1910C300285EFB /* PBXTextBookmark */;
+			1C25094C1A1910C300285EFB /* PBXTextBookmark */ = 1C25094C1A1910C300285EFB /* PBXTextBookmark */;
+			1C25094D1A1910C300285EFB /* PBXTextBookmark */ = 1C25094D1A1910C300285EFB /* PBXTextBookmark */;
+			1C25094E1A1910C300285EFB /* PBXTextBookmark */ = 1C25094E1A1910C300285EFB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1C25086F1A0EB6D300285EFB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* bmp_for_tft_screen_tool */ = {
+		activeExec = 0;
+		executables = (
+			1C2508481A0EB6B400285EFB /* bmp_for_tft_screen_tool */,
+		);
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {891, 2184}}";
+			sepNavSelRange = "{422, 0}";
+			sepNavVisRange = "{0, 1093}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+}
